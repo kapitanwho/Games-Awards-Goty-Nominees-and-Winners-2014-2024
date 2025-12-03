@@ -3,7 +3,9 @@
 The dataset includes key information for each nominated game, including:
 
 Name: The title of the game.
+
 Developer and Publisher: The companies behind the game.
+
 Genre: The primary genre (Action-Adventure, RPG, etc.).
 Release-Date: The exact release date.
 Year of the Event: The year of The Game Awards ceremony in which the game was nominated (e.g., 2020).
