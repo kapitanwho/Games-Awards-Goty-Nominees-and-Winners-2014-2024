@@ -1,3 +1,3 @@
 # Boring
 
-Adam olacaksın
+Adam olacaksın kapiş?
