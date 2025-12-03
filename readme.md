@@ -1,2 +1,3 @@
 # Boring
-Sikko
+
+Adam olacaksın
