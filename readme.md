@@ -1,2 +1,2 @@
 # Boring
-Bokumu yiyin
+Sikko
